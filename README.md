@@ -11,7 +11,7 @@
 
 Various links that provide state information
 
-<a href="www.wshfc.org">Washington State Housing Finance Commision</a>
+<a href="https://www.wshfc.org/">Washington State Housing Finance Commision</a>
 
 <h5><a href="#toc">Back to Table of Contents</a></h5>
 
