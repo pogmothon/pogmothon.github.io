@@ -66,7 +66,7 @@ Another resource containing information on home buying and home ownership.
 
 <ol>
 
-Main page for the school digger website where you can find data regarding schools testing, enrollment data and even financial statistics.  The WA specific district ranking can be found [here](https://www.schooldigger.com/go/WA/districtrank.aspx), which has district rankings out of a total of 247 included.
+Main page for the school digger website where you can find data regarding schools testing, enrollment data and even financial statistics.  The WA specific district ranking can be found <a href="https://www.schooldigger.com/go/WA/districtrank.aspx">here</a>, which has district rankings out of a total of 247 included.
 
 <details><summary>Everett District Rankings</summary>
 
