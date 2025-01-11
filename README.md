@@ -72,9 +72,9 @@ Main page for the school digger website where you can find data regarding school
 
 <ol>
 
-[Everett Schools Info](https://www.schooldigger.com/go/WA/city/Everett/search.aspx)
+<a href="https://www.schooldigger.com/go/WA/city/Everett/search.aspx">Everett Schools Info</a>
 
-![](imgs/2025-01-11-15-47-28.png)
+<img src="https://github.com/pogmothon/pogmothon.github.io/blob/main/imgs/2025-01-11-15-47-28.png">
 
 </ol>
 
@@ -84,9 +84,9 @@ Main page for the school digger website where you can find data regarding school
 
 <ol>
 
-[Olympia Schools Info](https://www.schooldigger.com/go/WA/city/Olympia/search.aspx)
+<a href="https://www.schooldigger.com/go/WA/city/Olympia/search.aspx">Olympia Schools Info</a>
 
-![](imgs/2025-01-11-15-50-40.png)
+<img src="https://github.com/pogmothon/pogmothon.github.io/blob/main/imgs/2025-01-11-15-50-40.png">
 
 </ol>
 </details>
@@ -95,9 +95,9 @@ Main page for the school digger website where you can find data regarding school
 
 <ol>
 
-[Tacoma Schools Info](https://www.schooldigger.com/go/WA/city/Tacoma/search.aspx)
+<a href="https://www.schooldigger.com/go/WA/city/Tacoma/search.aspx">Tacoma Schools Info</a>
 
-![](imgs/2025-01-11-15-52-33.png)
+<img src="https://github.com/pogmothon/pogmothon.github.io/blob/main/imgs/2025-01-11-15-52-33.png">
 
 </ol>
 </details>
