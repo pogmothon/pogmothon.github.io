@@ -144,7 +144,7 @@ Difference: 53.64%</li>
 
 City | Near | Nearest City<br>Miles | Nearest City<br>Minutes | Seattle Distance<br>Miles | Seattle Distance<br>Minutes | Population | Sex Offenders | Offender Rate | Weather Info
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
-Bellingham | Bellingham | 0 | 0 | 88.5 | 102 | 83,365 | 92 | 906/1 | <a href="https://weatherspark.com/y/991/Average-Weather-in-Bellingham-Washington-United-States-Year-Round">Here</a>
+Bellingham | Bellingham | 0 | 0 | 88.5 | 102 | 97,270 | 92 | 906/1 | <a href="https://weatherspark.com/y/991/Average-Weather-in-Bellingham-Washington-United-States-Year-Round">Here</a>
 Ferndale | Bellingham | 10.5 | 16 | 97.9 | 110 | 12,704 | 10 | 1270/1 | <a href="https://weatherspark.com/y/967/Average-Weather-in-Ferndale-Washington-United-States-Year-Round">Here</a>
 Deming | Bellingham | 15.7 | 27 | 96.9 | 121 | 353 | 1 | 353/1 | N/A
 Nooksack | Bellingham | 18.9 | 34 | 106 | 130 | 1,443 | N/A | N/A | <a href="https://weatherspark.com/y/977/Average-Weather-in-Nooksack-Washington-United-States-Year-Round">Here</a>
@@ -156,6 +156,7 @@ Olympia | Olympia | 0 | 0 | 61.1 | 64 | 49,218 | 168 | 293/1 | <a href="https://
 Lacey | Olympia | 5.1 | 10 | 57.7 | 90 | 45,446 | 10 | 4545/1 | <a href="https://weatherspark.com/y/864/Average-Weather-in-Lacey-Washington-United-States-Year-Round">Here</a>
 Tenino | Olympia | 15 | 25 | 74.3 | 84 | 1,729 | 7 | 247/1 | <a href="https://weatherspark.com/y/793/Average-Weather-in-Tenino-Washington-United-States-Year-Round">Here</a>
 Rainer | Olympia | 16.4 | 28 | 67.8 | 103 | 1,948 | 6 | 325/1 | <a href="https://weatherspark.com/y/792/Average-Weather-in-Rainier-Washington-United-States-Year-Round">Here</a>
+Chehalis | Olympia | 28 | 28 | 87.3 | 127 | 7,4480 | 16 | 468/1 | <a need="https://weatherspark.com/y/782/Average-Weather-in-Rochester-Washington-United-States-Year-Round">Here</a>
 Rochester | Olympia | 21.5 | 26 | 81.8 | 88 | 2,388 | 17 | 140/1 | <a href="https://weatherspark.com/y/445/Average-Weather-in-Rochester-Washington-United-States-Year-Round">Here</a>
 Yelm | Olympia | 21.7 | 32 | 62.2 | 74 | 8,223 | 11 | 748/1 | <a href="https://weatherspark.com/y/796/Average-Weather-in-Yelm-Washington-United-States-Year-Round">Here</a>
 Shelton | Olympia | 22.2 | 28 | 81.6 | 89 | 9,777 | 58 | 169/1 | <a href="https://weatherspark.com/y/454/Average-Weather-in-Shelton-Washington-United-States-Year-Round">Here</a>
