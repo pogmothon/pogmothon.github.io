@@ -7,6 +7,7 @@
 - [State Information](#state-information)
   - [Mortgage and Housing](#mortgage-and-housing)
   - [School Information](#school-information)
+  - [City Info](#city-info)
 - [Q And A](#qa)
 
 # State Information
@@ -115,7 +116,7 @@ State website that has various statistical information regarding schools all ove
 
 <ol>
 
-### WA Comparison
+<h3>WA Comparison</h3>
 
 <li><a href="https://reportcard.ospi.k12.wa.us/ReportCard/ViewSchoolOrDistrict/102960">Avanti High School</a><br>
 Spend: $14,278<br>
@@ -137,10 +138,36 @@ Difference: 53.64%</li>
 </details>
 
 </ol>
+<h5><a href="#toc">Back to Table of Contents</a></h5>
+
+## &nbsp;&nbsp;&nbsp; City Info
+
+City | Near | Nearest City<br>Miles | Nearest City<br>Minutes | Seattle Distance<br>Miles | Seattle Distance<br>Minutes | Population | Sex Offenders | Offender Rate | Weather Info
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+Bellingham | Bellingham | 0 | 0 | 88.5 | 102 | 83,365 | 92 | 906/1 | <a href="https://weatherspark.com/y/991/Average-Weather-in-Bellingham-Washington-United-States-Year-Round">Here</a>
+Ferndale | Bellingham | 10.5 | 16 | 97.9 | 110 | 12,704 | 10 | 1270/1 | <a href="https://weatherspark.com/y/967/Average-Weather-in-Ferndale-Washington-United-States-Year-Round">Here</a>
+Deming | Bellingham | 15.7 | 27 | 96.9 | 121 | 353 | 1 | 353/1 | N/A
+Nooksack | Bellingham | 18.9 | 34 | 106 | 130 | 1,443 | N/A | N/A | <a href="https://weatherspark.com/y/977/Average-Weather-in-Nooksack-Washington-United-States-Year-Round">Here</a>
+Blaine | Bellingham | 21.8 | 28 | 111 | 123 | 4,976 | 8 | 622/1 | <a href="https://weatherspark.com/y/994/Average-Weather-in-Blaine-Washington-United-States-Year-Round">Here</a>
+Maple Falls | Bellingham | 27.9 | 41 | 107 | 134 | 324 | 10 | 32/1 | N/A
+La Conner | Burlington | 12 | 22 | 66.5 | 83 | 917 | 4 | 229/1 | <a href="https://weatherspark.com/y/996/Average-Weather-in-Burlington-Washington-United-States-Year-Round">Here</a>
+Granite Falls | Everett | 15.7 | 28 | 43.1 | 68 | 3,468 | 7 | 495/1 | <a href="https://weatherspark.com/y/1252/Average-Weather-in-Granite-Falls-Washington-United-States-Year-Round">Here</a>
+Olympia | Olympia | 0 | 0 | 61.1 | 64 | 49,218 | 168 | 293/1 | <a href="https://weatherspark.com/y/894/Average-Weather-in-Olympia-Washington-United-States-Year-Round">Here</a>
+Lacey | Olympia | 5.1 | 10 | 57.7 | 90 | 45,446 | 10 | 4545/1 | <a href="https://weatherspark.com/y/864/Average-Weather-in-Lacey-Washington-United-States-Year-Round">Here</a>
+Tenino | Olympia | 15 | 25 | 74.3 | 84 | 1,729 | 7 | 247/1 | <a href="https://weatherspark.com/y/793/Average-Weather-in-Tenino-Washington-United-States-Year-Round">Here</a>
+Rainer | Olympia | 16.4 | 28 | 67.8 | 103 | 1,948 | 6 | 325/1 | <a href="https://weatherspark.com/y/792/Average-Weather-in-Rainier-Washington-United-States-Year-Round">Here</a>
+Rochester | Olympia | 21.5 | 26 | 81.8 | 88 | 2,388 | 17 | 140/1 | <a href="https://weatherspark.com/y/445/Average-Weather-in-Rochester-Washington-United-States-Year-Round">Here</a>
+Yelm | Olympia | 21.7 | 32 | 62.2 | 74 | 8,223 | 11 | 748/1 | <a href="https://weatherspark.com/y/796/Average-Weather-in-Yelm-Washington-United-States-Year-Round">Here</a>
+Shelton | Olympia | 22.2 | 28 | 81.6 | 89 | 9,777 | 58 | 169/1 | <a href="https://weatherspark.com/y/454/Average-Weather-in-Shelton-Washington-United-States-Year-Round">Here</a>
+Centralia | Olympia | 24.8 | 28 | 84.2 | 87 | 16,623 | 30 | 554/1 | <a href="https://weatherspark.com/y/781/Average-Weather-in-Centralia-Washington-United-States-Year-Round">Here</a>
+Pacific | Tacoma | 15.9 | 26 | 28.7 | 36 | 7,079 | 5 | 1416/1 | <a href="https://weatherspark.com/y/896/Average-Weather-in-Pacific-Washington-United-States-Year-Round">Here</a>
+Surprise, AZ | | | | | | 126,275 | 97 | 1302/1 |
+
 
 <h5><a href="#toc">Back to Table of Contents</a></h5>
 
 <!-- endregion state-info-->
+
 
 # Q&A
 
