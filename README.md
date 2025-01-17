@@ -1,7 +1,7 @@
 <h1>Washington Move Resources and General Information</h1>
 
 <a id="toc"></a>
- 
+
 # Contents
 
 - [State Information](#state-information)
@@ -177,11 +177,6 @@ Info is neighborhood based per city, ranked in ascending order:
 
 <ol>
 
-<details>
- 
- <summary>Olympia</summary>
-
-
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
 Olympia     | Cooper Point Rd NW / 62nd Ave NW  | Schneiders Prairie                      | Schneiders Prairie                | Holiday Hills
@@ -195,12 +190,7 @@ Olympia     | The Evergreen State College       | Upper Eastside                
 Olympia     | 19th Ave SE / Oakwood St SE       | South Westside                          | Kellys Korner                     | Upper Eastside
 Olympia     | Yauger Park                       | Kellys Korner                           | South Bay                         | Tumwater Airport / Maytown
 
-</details>
-
-<details>
- 
- <summary>Bellingham</summary>
-
+<br>
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -215,12 +205,7 @@ Bellingham  | Alabama Hill / Mount Baker        | Guide                         
 Bellingham  | York / Sunnyland                  | Marietta / Alderwood                    | South Bellingham                  | Sehome / Western Washington University
 Bellingham  | Geneva                            | Happy Valley                            | Silver Beach                      | Geneva
 
-</details>
-
-<details>
- 
- <summary>Rochester</summary>
-
+<br>
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -228,10 +213,7 @@ Rochester   | Grand Mound                       | Essex                         
 Rochester   | Mima                              | Mima                                    | Mima                              |
 Rochester   | Essex                             | Grand Mound                             | Grand Mound                       |
 
-</details>
-
-<details><summary>Yelm</summary>
-
+<br>
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -242,12 +224,7 @@ Yelm        | Yelm East                         | Yelm East                     
 Yelm        | Five Corners / City Center        | Four Corners                            | Yelm West                         | Yelm West
 Yelm        | North Yelm                        | Vail                                    | North Yelm                        | Yelm East
 
-</details>
-
-<details>
- 
- <summary>Centralia</summary>
-
+<br>
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -258,10 +235,7 @@ Centralia   | Fords Prairie                     | City Center                   
 Centralia   | Wabash                            | Centralia West                          | City Center                       | Centralia West
 Centralia   | Blakeslee Junction                | Wabash                                  | Centralia West                    | City Center
 
-</details>
-
-<details><summary>Chehalis</summary>
-
+<br>
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -271,8 +245,6 @@ Chehalis    | Claquato / Littell                | Adna / Bunker                 
 Chehalis    | Chehalis South                    | Kopiah                                  | City Center                       | Adna / Bunker
 Chehalis    | City Center                       | Chehalis West                           | Chehalis South                    | City Center
 Chehalis    | Chehalis West                     | Claquato / Littell                      | Chehalis West                     | Kopiah
-
-</details>
 
 </ol>
 
