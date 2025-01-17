@@ -1,5 +1,5 @@
 <h1>Washington Move Resources and General Information</h1>
- 
+
 <a id="toc"></a>
 
 # Contents
@@ -175,7 +175,6 @@ Surprise, AZ  |            |      |    |      |     | 126,275 | 97  | 1302/1 |
 
 Info is neighborhood based per city, ranked in ascending order:
 
-<details><summary>Olympia</summary>
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -190,7 +189,6 @@ Olympia     | The Evergreen State College       | Upper Eastside                
 Olympia     | 19th Ave SE / Oakwood St SE       | South Westside                          | Kellys Korner                     | Upper Eastside
 Olympia     | Yauger Park                       | Kellys Korner                           | South Bay                         | Tumwater Airport / Maytown
 
-</details>
 
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
