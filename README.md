@@ -1,7 +1,7 @@
 <h1>Washington Move Resources and General Information</h1>
 
 <a id="toc"></a>
- 
+
 # Contents
 
 - [State Information](#state-information)
@@ -177,86 +177,100 @@ Info is neighborhood based per city, ranked in ascending order:
 
 <ol>
 
-<details><summary>Olympia</summary>
+<details>
+ 
+ <summary>Olympia</summary>
 
-City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools   
+
+City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
-Olympia     | Cooper Point Rd NW / 62nd Ave NW  | Schneiders Prairie                      | Schneiders Prairie                | Holiday Hills   
-Olympia     | Yelm Hwy SE / Johnson Rd SE       | State Rte 8 W / US Hwy 101              | Boston Harbor / North Olympia     | Carlyon-North / Governor Stevens   
-Olympia     | South Bay                         | Nisqually Indian Community / Nisqually  | Lake Lucinda Park                 | Nottingham / Briarwood   
-Olympia     | Schneiders Prairie                | Belmore / Delphi                        | State Rte 8 W / US Hwy 101        | Prestwick Ln SE / Troon Ln SE   
-Olympia     | Boston Harbor / North Olympia     | Northeast                               | Yelm Hwy SE / Johnson Rd SE       | Schneiders Prairie   
-Olympia     | Carlyon-North / Governor Stevens  | Yelm Hwy SE / Johnson Rd SE             | Prestwick Ln SE / Troon Ln SE     | Boston Harbor / North Olympia   
-Olympia     | South Captol / Historic District  | 19th Ave SE / Oakwood St SE             | Belmore / Delphi                  | South Captol / Historic District   
-Olympia     | The Evergreen State College       | Upper Eastside                          | Cooper Point Rd NW / 62nd Ave NW  | Northeast   
-Olympia     | 19th Ave SE / Oakwood St SE       | South Westside                          | Kellys Korner                     | Upper Eastside   
-Olympia     | Yauger Park                       | Kellys Korner                           | South Bay                         | Tumwater Airport / Maytown   
+Olympia     | Cooper Point Rd NW / 62nd Ave NW  | Schneiders Prairie                      | Schneiders Prairie                | Holiday Hills
+Olympia     | Yelm Hwy SE / Johnson Rd SE       | State Rte 8 W / US Hwy 101              | Boston Harbor / North Olympia     | Carlyon-North / Governor Stevens
+Olympia     | South Bay                         | Nisqually Indian Community / Nisqually  | Lake Lucinda Park                 | Nottingham / Briarwood
+Olympia     | Schneiders Prairie                | Belmore / Delphi                        | State Rte 8 W / US Hwy 101        | Prestwick Ln SE / Troon Ln SE
+Olympia     | Boston Harbor / North Olympia     | Northeast                               | Yelm Hwy SE / Johnson Rd SE       | Schneiders Prairie
+Olympia     | Carlyon-North / Governor Stevens  | Yelm Hwy SE / Johnson Rd SE             | Prestwick Ln SE / Troon Ln SE     | Boston Harbor / North Olympia
+Olympia     | South Captol / Historic District  | 19th Ave SE / Oakwood St SE             | Belmore / Delphi                  | South Captol / Historic District
+Olympia     | The Evergreen State College       | Upper Eastside                          | Cooper Point Rd NW / 62nd Ave NW  | Northeast
+Olympia     | 19th Ave SE / Oakwood St SE       | South Westside                          | Kellys Korner                     | Upper Eastside
+Olympia     | Yauger Park                       | Kellys Korner                           | South Bay                         | Tumwater Airport / Maytown
 
 </details>
 
-<details><summary>Bellingham</summary>
+<details>
+ 
+ <summary>Bellingham</summary>
 
-City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools   
+
+City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
-Bellingham  | South Hill                        | Alabama Hill / Mount Baker              | Sudden Valley                     | Lettered Streets   
-Bellingham  | Edgemoor                          | Birchwoods                              | Sudden Valley East                | Cornwall Park   
-Bellingham  | Silver Beach                      | Roosevelt                               | Geneva                            | Central Business District   
-Bellingham  | South Bellingham                  | Guide South                             | Noon / Van Wyck                   | Columbia   
-Bellingham  | Samish Hill                       | Lettered Streets                        | Puget                             | South Hill   
-Bellingham  | Puget                             | Happy Valley West                       | Samish Hill                       | Sudden Valley   
-Bellingham  | Lettered Streets                  | Guide North                             | South Hill                        | Sudden Valley East   
-Bellingham  | Alabama Hill / Mount Baker        | Guide                                   | Lummi Shore Rd / Cagey Rd         | Edgemoor   
-Bellingham  | York / Sunnyland                  | Marietta / Alderwood                    | South Bellingham                  | Sehome / Western Washington University   
-Bellingham  | Geneva                            | Happy Valley                            | Silver Beach                      | Geneva   
+Bellingham  | South Hill                        | Alabama Hill / Mount Baker              | Sudden Valley                     | Lettered Streets
+Bellingham  | Edgemoor                          | Birchwoods                              | Sudden Valley East                | Cornwall Park
+Bellingham  | Silver Beach                      | Roosevelt                               | Geneva                            | Central Business District
+Bellingham  | South Bellingham                  | Guide South                             | Noon / Van Wyck                   | Columbia
+Bellingham  | Samish Hill                       | Lettered Streets                        | Puget                             | South Hill
+Bellingham  | Puget                             | Happy Valley West                       | Samish Hill                       | Sudden Valley
+Bellingham  | Lettered Streets                  | Guide North                             | South Hill                        | Sudden Valley East
+Bellingham  | Alabama Hill / Mount Baker        | Guide                                   | Lummi Shore Rd / Cagey Rd         | Edgemoor
+Bellingham  | York / Sunnyland                  | Marietta / Alderwood                    | South Bellingham                  | Sehome / Western Washington University
+Bellingham  | Geneva                            | Happy Valley                            | Silver Beach                      | Geneva
 
 </details>
 
-<details><summary>Rochester</summary>
+<details>
+ 
+ <summary>Rochester</summary>
 
-City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools   
+
+City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
-Rochester   | Grand Mound                       | Essex                                   | Essex                             |    
-Rochester   | Mima                              | Mima                                    | Mima                              |    
-Rochester   | Essex                             | Grand Mound                             | Grand Mound                       |    
+Rochester   | Grand Mound                       | Essex                                   | Essex                             |
+Rochester   | Mima                              | Mima                                    | Mima                              |
+Rochester   | Essex                             | Grand Mound                             | Grand Mound                       |
 
 </details>
 
 <details><summary>Yelm</summary>
 
-City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools   
+
+City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
-Yelm        | Four Corners                      | Five Corners / City Center              | Four Corners                      | Five Corners / City Center   
-Yelm        | Yelm West                         | North Yelm                              | Yelm East                         | Vail   
-Yelm        | Vail                              | Yelm West                               | Vail                              | Four Corners   
-Yelm        | Yelm East                         | Yelm East                               | Five Corners / City Center        | North Yelm   
-Yelm        | Five Corners / City Center        | Four Corners                            | Yelm West                         | Yelm West   
-Yelm        | North Yelm                        | Vail                                    | North Yelm                        | Yelm East   
+Yelm        | Four Corners                      | Five Corners / City Center              | Four Corners                      | Five Corners / City Center
+Yelm        | Yelm West                         | North Yelm                              | Yelm East                         | Vail
+Yelm        | Vail                              | Yelm West                               | Vail                              | Four Corners
+Yelm        | Yelm East                         | Yelm East                               | Five Corners / City Center        | North Yelm
+Yelm        | Five Corners / City Center        | Four Corners                            | Yelm West                         | Yelm West
+Yelm        | North Yelm                        | Vail                                    | North Yelm                        | Yelm East
 
 </details>
 
-<details><summary>Centralia</summary>
+<details>
+ 
+ <summary>Centralia</summary>
 
-City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools   
+
+City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
-Centralia   | Galvin                            | Fords Prairie                           | Galvin                            | Galvin   
-Centralia   | City Center                       | Blakeslee Junction                      | Wabash                            | Fords Prairie   
-Centralia   | Centralia West                    | Galvin                                  | Fords Prairie                     | Wabash   
-Centralia   | Fords Prairie                     | City Center                             | Blakeslee Junction                | Blakeslee Junction   
-Centralia   | Wabash                            | Centralia West                          | City Center                       | Centralia West   
-Centralia   | Blakeslee Junction                | Wabash                                  | Centralia West                    | City Center   
+Centralia   | Galvin                            | Fords Prairie                           | Galvin                            | Galvin
+Centralia   | City Center                       | Blakeslee Junction                      | Wabash                            | Fords Prairie
+Centralia   | Centralia West                    | Galvin                                  | Fords Prairie                     | Wabash
+Centralia   | Fords Prairie                     | City Center                             | Blakeslee Junction                | Blakeslee Junction
+Centralia   | Wabash                            | Centralia West                          | City Center                       | Centralia West
+Centralia   | Blakeslee Junction                | Wabash                                  | Centralia West                    | City Center
 
 </details>
 
 <details><summary>Chehalis</summary>
 
-City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools   
+
+City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
-Chehalis    | Adna / Bunker                     | City Center                             | Kopiah                            | Claquato / Littell   
-Chehalis    | Kopiah                            | Chehalis South                          | Adna / Bunker                     | Chehalis West   
-Chehalis    | Claquato / Littell                | Adna / Bunker                           | Claquato / Littell                | Chehalis South   
-Chehalis    | Chehalis South                    | Kopiah                                  | City Center                       | Adna / Bunker   
-Chehalis    | City Center                       | Chehalis West                           | Chehalis South                    | City Center   
-Chehalis    | Chehalis West                     | Claquato / Littell                      | Chehalis West                     | Kopiah   
+Chehalis    | Adna / Bunker                     | City Center                             | Kopiah                            | Claquato / Littell
+Chehalis    | Kopiah                            | Chehalis South                          | Adna / Bunker                     | Chehalis West
+Chehalis    | Claquato / Littell                | Adna / Bunker                           | Claquato / Littell                | Chehalis South
+Chehalis    | Chehalis South                    | Kopiah                                  | City Center                       | Adna / Bunker
+Chehalis    | City Center                       | Chehalis West                           | Chehalis South                    | City Center
+Chehalis    | Chehalis West                     | Claquato / Littell                      | Chehalis West                     | Kopiah
 
 </details>
 
