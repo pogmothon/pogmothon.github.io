@@ -1,7 +1,7 @@
 <h1>Washington Move Resources and General Information</h1>
 
 <a id="toc"></a>
- 
+
 # Contents
 
 - [State Information](#state-information)
@@ -175,7 +175,7 @@ Surprise, AZ  |            |      |    |      |     | 126,275 | 97  | 1302/1 |
 
 Info is neighborhood based per city, ranked in ascending order:
 
-<ol>
+<details><summary>Olympia</summary>
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -190,7 +190,8 @@ Olympia     | The Evergreen State College       | Upper Eastside                
 Olympia     | 19th Ave SE / Oakwood St SE       | South Westside                          | Kellys Korner                     | Upper Eastside
 Olympia     | Yauger Park                       | Kellys Korner                           | South Bay                         | Tumwater Airport / Maytown
 
-<br>
+</details>
+
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -205,7 +206,7 @@ Bellingham  | Alabama Hill / Mount Baker        | Guide                         
 Bellingham  | York / Sunnyland                  | Marietta / Alderwood                    | South Bellingham                  | Sehome / Western Washington University
 Bellingham  | Geneva                            | Happy Valley                            | Silver Beach                      | Geneva
 
-<br>
+
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -213,7 +214,7 @@ Rochester   | Grand Mound                       | Essex                         
 Rochester   | Mima                              | Mima                                    | Mima                              |
 Rochester   | Essex                             | Grand Mound                             | Grand Mound                       |
 
-<br>
+
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -224,7 +225,7 @@ Yelm        | Yelm East                         | Yelm East                     
 Yelm        | Five Corners / City Center        | Four Corners                            | Yelm West                         | Yelm West
 Yelm        | North Yelm                        | Vail                                    | North Yelm                        | Yelm East
 
-<br>
+
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
@@ -235,7 +236,7 @@ Centralia   | Fords Prairie                     | City Center                   
 Centralia   | Wabash                            | Centralia West                          | City Center                       | Centralia West
 Centralia   | Blakeslee Junction                | Wabash                                  | Centralia West                    | City Center
 
-<br>
+
 
 City        | Most Expensive                    | Greatest Income Growth                  | Safest                            | Schools
 -- | -- | -- | -- | --
